@@ -1,0 +1,42 @@
+.namePopup{
+    font-weight: bold;
+    text-align: center;
+}
+
+.imgPopup{
+    width: 240px;
+    height: 170px
+}
+
+.decriptionPopup{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: justify;
+    word-wrap: break-word;
+}
+
+.addCoordBlock{
+    height:20%;
+}
+
+.list{
+    width: 100%;
+}
+
+.list td,th{
+    border: 1px solid black; 
+    padding: 5px;
+}
+
+.listBlock{
+    overflow: auto;
+    height: 80%;
+}
+
+.sorting{
+    padding: 5px;
+    border: 1px solid black;
+    display: inline-block;
+    cursor: pointer;
+    margin: 5px;
+}
